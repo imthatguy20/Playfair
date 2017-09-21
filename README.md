@@ -1,8 +1,7 @@
 # Playfair
-Jerry Haynes 851657721
+Jerry Haynes
 CS 408 – Applied Cryptography
-September 21, 2017
-Lab 1 Report 
+September 21, 2017 
 
 What is a Playfair Cipher?
 This cipher was one of the first practical digraphs substitution ciphers. This cipher was designed by a man that went by the name of Charles Wheatstone. During that time, it was incredible hard to break do to the amount of combinations that can be created during its use.
